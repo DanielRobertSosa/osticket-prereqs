@@ -185,6 +185,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
 <img width="1365" height="496" alt="image" src="https://github.com/user-attachments/assets/14170c74-a710-4b7e-a437-2269f4476b45" />
 
+15. Launch osTicket
+
+ -On the left hand side of IIS, Expand on the VM name -> Sites - > Default Website -> osTicket
+
+- click on browse *:80(http)
+
+<img width="1357" height="444" alt="image" src="https://github.com/user-attachments/assets/26728d87-cd5b-4dc9-b7ea-b236e54419cd" />
+
+
+
 
 
 
