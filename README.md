@@ -94,6 +94,30 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="910" height="586" alt="image" src="https://github.com/user-attachments/assets/def91755-c556-4d58-8b62-c8f08fd08994" />
 
+8. Download and Install the (VC_redist.x86.exe) 
+
+- install from the osTicket-Installation-Files
+
+<img width="780" height="588" alt="image" src="https://github.com/user-attachments/assets/74b3e7fe-c744-44b5-811a-961f5e6675c9" />
+
+9. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+
+- install from the osTicket-Installation-Files
+
+- select the following configurations;
+
+  ->Typical setup
+
+  ->launch configuration
+
+
+  ->Standard configuration
+
+  <img width="783" height="590" alt="image" src="https://github.com/user-attachments/assets/ec052a10-8163-41cf-ae74-4526076f9026" />
+
+
+
+
 
 
 
