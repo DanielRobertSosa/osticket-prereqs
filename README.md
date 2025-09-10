@@ -251,6 +251,52 @@ go to add-> select principal-> Everyone-> click full access-> apply-> ok
 
 <img width="756" height="520" alt="image" src="https://github.com/user-attachments/assets/8f104579-a8fe-41b5-9d5e-6c4d05293a77" />
 
+23. Continue osTicket installation
+
+- Continue the osTicket installer on your browser by filling the first half of the page.
+
+<img width="914" height="949" alt="image" src="https://github.com/user-attachments/assets/f7a7d6f1-6565-466e-a689-03fd9c011f30" />
+
+24. Download and install Heidi SQL from the osTicket-Installation-Files
+
+<img width="771" height="588" alt="image" src="https://github.com/user-attachments/assets/a059116e-a5ec-445e-8a2f-ed8e45f1c1e1" />
+
+
+- Open Heidi SQL and create a new session 
+- fill in username and password as root
+
+username:root 
+
+
+password:root 
+
+- then click open
+
+<img width="762" height="578" alt="image" src="https://github.com/user-attachments/assets/9669d950-e08e-4612-8802-2c5a5544f097" />
+
+
+
+25. Create new database
+
+- On the left side of the window, right click on "Unnamed" and click create new database and name it "osTicket".
+
+<img width="921" height="432" alt="image" src="https://github.com/user-attachments/assets/48e8c7d5-e840-4280-88d5-91dd375fb0ab" />
+
+
+26. Finish signing in database settings
+
+- Then go back to your osTicket browser and fill up the missing credentials. It should look something like this.
+
+- install now
+
+<img width="420" height="328" alt="image" src="https://github.com/user-attachments/assets/4a876731-35f0-41e9-a108-faa24c11314c" />
+
+
+
+27. Finalize osticket installation
+
+
+<img width="881" height="729" alt="image" src="https://github.com/user-attachments/assets/8f2451f2-eaef-41b3-8577-3ab6d667d763" />
 
 
 
@@ -283,25 +329,3 @@ go to add-> select principal-> Everyone-> click full access-> apply-> ok
 
 
 
-
-
-
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
