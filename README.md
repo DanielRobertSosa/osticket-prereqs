@@ -193,6 +193,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1357" height="444" alt="image" src="https://github.com/user-attachments/assets/26728d87-cd5b-4dc9-b7ea-b236e54419cd" />
 
+- This should then lead to your browser opening osTicket.
+
+
+<img width="869" height="829" alt="image" src="https://github.com/user-attachments/assets/53a084fd-2697-44c6-baf1-7827f2dff534" />
+
+
+
 
 
 
