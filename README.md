@@ -198,6 +198,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="869" height="829" alt="image" src="https://github.com/user-attachments/assets/53a084fd-2697-44c6-baf1-7827f2dff534" />
 
+16. Enable extensions
+
+- open IIS, sites -> Default -> osTicket
+- Double-click PHP Manager
+
+<img width="1381" height="468" alt="image" src="https://github.com/user-attachments/assets/eafa0ed0-118f-48d0-8c40-279715b69c34" />
+
+
+
 
 
 
