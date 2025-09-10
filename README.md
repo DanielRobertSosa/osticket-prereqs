@@ -81,6 +81,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1053" height="419" alt="image" src="https://github.com/user-attachments/assets/f0fd4be3-8c22-4e91-8eb9-3e4d58d50d3e" />
 
+6. Creat a directoy in the C drive 
+
+- Go to file explorer and creat the directory C:\PHP
+
+
+<img width="912" height="591" alt="image" src="https://github.com/user-attachments/assets/061ec363-53e7-458e-869e-36f125a59376" />
+
+
 
 
 
