@@ -205,6 +205,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1412" height="332" alt="image" src="https://github.com/user-attachments/assets/963f62a4-197e-4974-a04a-fb0a02709679" />
 
+Click “Enable or disable an extension”
+
+- Enable: php_imap.dll
+- Enable: php_intl.dll
+- Enable: php_opcache.dll
+
+<img width="1215" height="477" alt="image" src="https://github.com/user-attachments/assets/fdcfc955-2aba-4004-9a1d-373ce8e4a881" />
+
+
+
 
 
 
