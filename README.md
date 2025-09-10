@@ -213,6 +213,30 @@ Click “Enable or disable an extension”
 
 <img width="1215" height="477" alt="image" src="https://github.com/user-attachments/assets/fdcfc955-2aba-4004-9a1d-373ce8e4a881" />
 
+17.Refresh osTicket
+
+- Refresh the osTicket site in your browser, some extensions will now appear active 
+
+<img width="869" height="804" alt="image" src="https://github.com/user-attachments/assets/96054b8e-473a-452a-8cbe-a2b25d4ec1e4" />
+
+18.Change ost-config.ph  
+
+
+- Rename: ost-config.php
+
+From: C:\inetpub|wwwrootlosTicket\includelost-sampleconfig.php
+
+
+To: C. linetpubiwwwrootlos Ticketinclude lost-config.php
+
+- rename "ost-sampleconfig.ph" to "ost-config.ph"
+
+
+<img width="904" height="677" alt="image" src="https://github.com/user-attachments/assets/1edbec4c-04d1-49c4-9c9c-81a35aced2f4" />
+
+
+
+
 
 
 
