@@ -234,6 +234,19 @@ To: C. linetpubiwwwrootlos Ticketinclude lost-config.php
 
 <img width="904" height="677" alt="image" src="https://github.com/user-attachments/assets/1edbec4c-04d1-49c4-9c9c-81a35aced2f4" />
 
+22. Change ost-config.ph permissions
+
+- Change ost-config.php permissions by right clicking and selecting
+
+- Properties -> Security -> Advance -> Disable inheritance
+
+- Disable inheritance -> Remove All
+
+
+<img width="755" height="507" alt="image" src="https://github.com/user-attachments/assets/db98891e-8aa1-48cc-a310-8ea7f816a3de" />
+
+
+
 
 
 
