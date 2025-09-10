@@ -88,6 +88,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="912" height="591" alt="image" src="https://github.com/user-attachments/assets/061ec363-53e7-458e-869e-36f125a59376" />
 
+7. From the osTicket-Installation-Files intall(php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP
+
+- osTicket-Installation-Files unzip the content into the newly created C:\PHP
+
+<img width="910" height="586" alt="image" src="https://github.com/user-attachments/assets/def91755-c556-4d58-8b62-c8f08fd08994" />
+
+
 
 
 
