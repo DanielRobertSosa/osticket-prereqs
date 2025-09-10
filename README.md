@@ -70,6 +70,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1906" height="1028" alt="image" src="https://github.com/user-attachments/assets/9e45380c-4264-462c-82c7-40981ce39878" />
 
+4. Download and install PHP manager from the osTicket-Installation-Files
+- (PHPManagerForIIS_V1.5.0.msi)
+
+<img width="1002" height="440" alt="image" src="https://github.com/user-attachments/assets/16a8b25e-0c69-4001-9db0-6999f0833708" />
+
+
 
 
 
