@@ -75,6 +75,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1002" height="440" alt="image" src="https://github.com/user-attachments/assets/16a8b25e-0c69-4001-9db0-6999f0833708" />
 
+5. Download and Install the Rewrite Module
+
+- (rewrite_amd64_en-US.msi) from the osTicket-Installation-Files
+
+<img width="1053" height="419" alt="image" src="https://github.com/user-attachments/assets/f0fd4be3-8c22-4e91-8eb9-3e4d58d50d3e" />
+
+
 
 
 
