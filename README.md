@@ -6,9 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -33,44 +30,44 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Setting Up osTicket on Azure VM</h2>
 
-- Create Virtual Machine in Azure:
-- Log in to Azure Portal.
+- Let's Create A Virtual Machine in Azure:
+- Deploy a new VM running Windows Server.
   
-- Create a new VM with Windows Server.
+- Set up a Windows Server VM.
 <img width="1912" height="528" alt="image" src="https://github.com/user-attachments/assets/b81dd1f0-2570-4a3d-a20e-0c1b448ea05b" />
 
 </p>
 <p>
 
-- Connect to your VM using the Remote Desktop with the public IP address form the VM. (for mac user use the "windows app")
+- Connect to the virtual machine using Remote Desktop and its public IP address. (for mac user use the "windows app")
   
-- login with the same login credentials used to create the VM.
+- Use the same username and password set during virtual machine creation to log in.
   
 <img width="1910" height="831" alt="image" src="https://github.com/user-attachments/assets/3f75dcec-7c85-4cc1-afe8-a16758ce2466" />
 
 2. Download the osTicket-Installation-Files.zip
 
-- Inside your VM download the [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)and unzip it onto your desktop. we will use the files to download osticket.
+- Inside your VM download the [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)and unzip it onto your desktop.Let's use the files to download osticket.
 <img width="1116" height="623" alt="image" src="https://github.com/user-attachments/assets/9bd550ea-ecf9-46bd-a3c6-e694e68e0cb1" />
 
-3. Enable ISS with CGI
+3. Proceed to Enable ISS with CGI
 
-- Go to the Control Panel and open the programs applet. Under programs, select "Turn Windows features on or off".
+- Head to the Control Panel and open the programs applet. Under programs, select "Turn Windows features on or off".
 
 
 <img width="1114" height="627" alt="image" src="https://github.com/user-attachments/assets/ea38498b-dc3e-464a-9026-d1631c05dde1" />
 
-- enable (internet information services) World Wide Web Services -> Application Development Features -> enable (CGI)
+- Activate (internet information services) World Wide Web Services -> Application Development Features -> enable (CGI)
 
 
 <img width="1102" height="620" alt="image" src="https://github.com/user-attachments/assets/3f915a2b-69e0-41f1-90af-c7d81d62d31c" />
 
-- Test if the changes were applied succesfully, type 127.0.0.1 on your browser and the page below should appear.
+- Verify the changes by entering 127.0.0.1 in your browser; the expected page should load.
 
 
 <img width="1906" height="1028" alt="image" src="https://github.com/user-attachments/assets/9e45380c-4264-462c-82c7-40981ce39878" />
 
-4. Download and install PHP manager from the osTicket-Installation-Files
+4. Download PHP Manager from the osTicket-Installation-Files folder and complete the installation.
 - (PHPManagerForIIS_V1.5.0.msi)
 
 <img width="1002" height="440" alt="image" src="https://github.com/user-attachments/assets/16a8b25e-0c69-4001-9db0-6999f0833708" />
@@ -118,14 +115,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-- the user for this service is going to (username:root) (password:root) for my sql server
+- Use "root" as both the username and password to access the MySQL server.
 
 
 <img width="793" height="601" alt="image" src="https://github.com/user-attachments/assets/a08b7e4b-ef05-4c03-aa97-4e2c9f0745c5" />
 
 10. Launch IIS as an administrator
 
-- Search for IIS in the windows search bar and right click it and select open as administrator
+- Search for IIS in Windows, then right-click and select Open as administrator.
 
 
 <img width="356" height="155" alt="image" src="https://github.com/user-attachments/assets/8b53d52e-1764-441e-a98a-d30fa0dc9a86" />
@@ -150,13 +147,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 12. Reload IIS (Open IIS, Stop and Start the server)
 
- -The restart button can be found on the right side of the window
+ - You can find the Restart button on the window’s right panel.
  
 <img width="1414" height="475" alt="image" src="https://github.com/user-attachments/assets/16c723fc-5efe-46ef-a3b6-a1d53cd111af" />
 
 13. Download and install osTicket
 
--from the osTicket-Installation-Files unzip or extract the (osTicketv1.15.8)
+- from the osTicket-Installation-Files unzip or extract the (osTicketv1.15.8)
 
 ![image](https://github.com/user-attachments/assets/cddae31a-a0f3-47e6-91ab-95726e5302e6)
 
@@ -187,7 +184,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 15. Launch osTicket
 
- -On the left hand side of IIS, Expand on the VM name -> Sites - > Default Website -> osTicket
+ - In IIS, navigate through the left panel: expand your VM name → Sites → Default Web Site → osTicket.
 
 - click on browse *:80(http)
 
@@ -236,7 +233,7 @@ To: C. linetpubiwwwrootlos Ticketinclude lost-config.php
 
 22. Change ost-config.ph permissions
 
-- Change ost-config.php permissions by right clicking and selecting
+- To change permissions, right-click ost-config.php and choose the permissions setting.
 
 - Properties -> Security -> Advance -> Disable inheritance
 
@@ -253,7 +250,7 @@ go to add-> select principal-> Everyone-> click full access-> apply-> ok
 
 23. Continue osTicket installation
 
-- Continue the osTicket installer on your browser by filling the first half of the page.
+- In your browser, continue the osTicket installer and complete the first section of the form.
 
 <img width="914" height="949" alt="image" src="https://github.com/user-attachments/assets/f7a7d6f1-6565-466e-a689-03fd9c011f30" />
 
