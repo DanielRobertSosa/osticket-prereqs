@@ -65,6 +65,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1102" height="620" alt="image" src="https://github.com/user-attachments/assets/3f915a2b-69e0-41f1-90af-c7d81d62d31c" />
 
+- Test if the changes were applied succesfully, type 127.0.0.1 on your browser and the page below should appear.
+
+
+<img width="1906" height="1028" alt="image" src="https://github.com/user-attachments/assets/9e45380c-4264-462c-82c7-40981ce39878" />
+
+
 
 
 
