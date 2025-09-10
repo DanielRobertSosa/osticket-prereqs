@@ -203,7 +203,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - open IIS, sites -> Default -> osTicket
 - Double-click PHP Manager
 
-<img width="1381" height="468" alt="image" src="https://github.com/user-attachments/assets/eafa0ed0-118f-48d0-8c40-279715b69c34" />
+<img width="1412" height="332" alt="image" src="https://github.com/user-attachments/assets/963f62a4-197e-4974-a04a-fb0a02709679" />
 
 
 
