@@ -41,8 +41,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
+
 - Connect to your VM using the Remote Desktop with the public IP address form the VM. (for mac user use the "windows app")
-  <img width="1910" height="831" alt="image" src="https://github.com/user-attachments/assets/3f75dcec-7c85-4cc1-afe8-a16758ce2466" />
+  
+- login with the same login credentials used to create the VM.
+  
+<img width="1910" height="831" alt="image" src="https://github.com/user-attachments/assets/3f75dcec-7c85-4cc1-afe8-a16758ce2466" />
 
 </p>
 <br />
