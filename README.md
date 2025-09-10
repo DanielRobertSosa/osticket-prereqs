@@ -245,6 +245,14 @@ To: C. linetpubiwwwrootlos Ticketinclude lost-config.php
 
 <img width="755" height="507" alt="image" src="https://github.com/user-attachments/assets/db98891e-8aa1-48cc-a310-8ea7f816a3de" />
 
+- New Permissions -> Everyone -> All|
+
+go to add-> select principal-> Everyone-> click full access-> apply-> ok
+
+<img width="756" height="520" alt="image" src="https://github.com/user-attachments/assets/8f104579-a8fe-41b5-9d5e-6c4d05293a77" />
+
+
+
 
 
 
