@@ -114,6 +114,86 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   ->Standard configuration
 
   <img width="783" height="590" alt="image" src="https://github.com/user-attachments/assets/ec052a10-8163-41cf-ae74-4526076f9026" />
+  <img width="762" height="579" alt="image" src="https://github.com/user-attachments/assets/337a7f03-aab4-45ed-a0d3-d1ad0d43d0a2" />
+
+
+
+- the user for this service is going to (username:root) (password:root) for my sql server
+
+
+<img width="793" height="601" alt="image" src="https://github.com/user-attachments/assets/a08b7e4b-ef05-4c03-aa97-4e2c9f0745c5" />
+
+10. Launch IIS as an administrator
+
+- Search for IIS in the windows search bar and right click it and select open as administrator
+
+
+<img width="356" height="155" alt="image" src="https://github.com/user-attachments/assets/8b53d52e-1764-441e-a98a-d30fa0dc9a86" />
+
+11. Register PHP from within lIS
+- open the PHP manager
+- Register new PHP version
+
+
+<img width="986" height="675" alt="image" src="https://github.com/user-attachments/assets/5d146c2d-3ab2-4e39-9272-5f59c1a88b1b" />
+
+-browse (...)
+
+- go to your C drive
+
+- PHP folder
+
+- php-cgi
+
+
+<img width="1133" height="389" alt="image" src="https://github.com/user-attachments/assets/79f4e3bd-ce56-4caa-a0fa-57bffa5def96" />
+
+12. Reload IIS (Open IIS, Stop and Start the server)
+
+ -The restart button can be found on the right side of the window
+ 
+<img width="1414" height="475" alt="image" src="https://github.com/user-attachments/assets/16c723fc-5efe-46ef-a3b6-a1d53cd111af" />
+
+13. Download and install osTicket
+
+-from the osTicket-Installation-Files unzip or extract the (osTicketv1.15.8)
+
+![image](https://github.com/user-attachments/assets/cddae31a-a0f3-47e6-91ab-95726e5302e6)
+
+-after extracting the folder click on the folder and then copy the "upload" folder into "c: linetpub\wwwroot"
+
+
+
+
+
+
+- open file explorer
+- C drive
+- inetpub
+- wwwroot
+
+
+<img width="801" height="493" alt="image" src="https://github.com/user-attachments/assets/79c13075-ed35-40ac-b06e-91378a096293" />
+
+- Within "c: linetpub|wwwroot", Rename "upload" to "osTicket"
+
+<img width="902" height="321" alt="image" src="https://github.com/user-attachments/assets/f022fdd8-2c70-450d-ac93-6299ff40857a" />
+
+14. Reload IIS as admin (Open IIS, Stop and Start the server)
+
+ -The restart button can be found on the right side of the window
+ 
+<img width="1365" height="496" alt="image" src="https://github.com/user-attachments/assets/14170c74-a710-4b7e-a437-2269f4476b45" />
+
+
+
+
+
+
+
+
+
+
 
 
 
