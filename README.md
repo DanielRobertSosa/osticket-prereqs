@@ -38,16 +38,16 @@ Setting Up osTicket on Azure VM
 
 - Let's Create A Virtual Machine in Azure:
 - Deploy a new VM running Windows Server.
-  
 - Set up a Windows Server VM.
+- Access the virtual machine through **Remote Desktop** using its **public IP address**.  
+  *(Mac users can connect with the Microsoft Remote Desktop app)*  
+
+- Sign in with the **username and password** you configured during VM creation.  
+
 <img width="1912" height="528" alt="image" src="https://github.com/user-attachments/assets/b81dd1f0-2570-4a3d-a20e-0c1b448ea05b" />
 
 </p>
 <p>
-
-- Connect to the virtual machine using Remote Desktop and its public IP address. (for mac user use the "windows app")
-  
-- Use the same username and password set during virtual machine creation to log in.
   
 <img width="1910" height="831" alt="image" src="https://github.com/user-attachments/assets/3f75dcec-7c85-4cc1-afe8-a16758ce2466" />
  Download the osTicket-Installation-Files.zip
