@@ -2,33 +2,39 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>🎫 osTicket - Prerequisites and Installation</h1>
+This guide walks through the prerequisites and step-by-step installation of the open-source help desk ticketing system **osTicket** on an Azure Virtual Machine. It demonstrates how to prepare the environment, install required components, and bring osTicket online.<br />
 
 
 
-<h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+<h2>🌐 Environments and Technologies Used</h2>
 
-<h2>Operating Systems Used </h2>
+- Microsoft Azure (Virtual Machines / Compute)  
+- Remote Desktop Protocol (RDP)  
+- Internet Information Services (IIS)  
 
-- Windows 10</b> 
 
-<h2>List of Prerequisites</h2>
+<h2>💻 Operating Systems Used</h2>
 
-- IIS
-- PHP Manager
-- VC_redistx86
-- MySQL 5.5.62
-- Rewrite Module
-- Heidi SQL
+- Windows 10  
 
-<h2>Installation Steps</h2>
+---
 
-<h2>Setting Up osTicket on Azure VM</h2>
+<h2>📋 Prerequisites</h2>
+
+- Internet Information Services (IIS)  
+- PHP Manager  
+- Visual C++ Redistributable (VC_redist.x86)  
+- MySQL 5.5.62  
+- IIS Rewrite Module  
+- HeidiSQL  
+
+
+<h2>⚙️ Installation Steps</h2>
+
+Setting Up osTicket on Azure VM
+
 
 - Let's Create A Virtual Machine in Azure:
 - Deploy a new VM running Windows Server.
@@ -44,8 +50,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Use the same username and password set during virtual machine creation to log in.
   
 <img width="1910" height="831" alt="image" src="https://github.com/user-attachments/assets/3f75dcec-7c85-4cc1-afe8-a16758ce2466" />
-
-2. Download the osTicket-Installation-Files.zip
+ Download the osTicket-Installation-Files.zip
 
 - Inside your VM download the [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)and unzip it onto your desktop.Let's use the files to download osticket.
 <img width="1116" height="623" alt="image" src="https://github.com/user-attachments/assets/9bd550ea-ecf9-46bd-a3c6-e694e68e0cb1" />
